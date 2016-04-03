@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
   s.version  = '1.0'
   s.license  = { :type => 'MIT', :file => 'LICENSE' }
   s.summary  = 'A matcher framework for Objective-C & Cocoa.'
-  s.homepage = 'https://github.com/ritesh-kumar42/PodSpecFile'
+  s.homepage = 'https://github.com/ritesh-kumar42/TestRepo/'
   s.author   = { 'Peter Jihoon Kim' => 'raingrove@gmail.com' }
 
-  s.source   = { :git => 'https://github.com/ritesh-kumar42/PodSpecFile.git', :tag => "v#{s.version}" }
+  s.source   = { :git => 'https://github.com/ritesh-kumar42/TestRepo.git', :tag => "v#{s.version}" }
 
   s.description = %{
     ExpectaDev is a matcher framework for Objective-C and Cocoa. The main
