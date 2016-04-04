@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     Jasmine before, you will feel right at home!
   }
 
-  s.source_files = 'Expecta/**/*.{h,m}'
+  s.source_files = 'ExpectaDev/Expecta/**/*.{h,m}'
 
   s.requires_arc = false
   s.ios.deployment_target = '5.1.1'
